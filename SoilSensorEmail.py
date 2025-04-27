@@ -41,7 +41,7 @@ def send_email(content):
     # Set the sender email and password and recipient email
     from_email_addr = "2981634913@qq.com"
     from_email_pass = "jiamian30"
-    to_email_addr = "2547421656@qq.com"
+    to_email_addr = "740918391@qq.com"
 
     # Create a message object
     msg = EmailMessage()
